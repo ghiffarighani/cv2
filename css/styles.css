@@ -1,0 +1,191 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+P {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #cceabb;
+  position: relative;
+  padding-top: 75px;
+}
+
+.head-cloud {
+  position: absolute;
+  top: 50px;
+  left: 220px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 475px;
+  right: 200px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  position: relative;
+  font-family: 'Satisfy', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+}
+
+.t2 {
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+.middle-container {
+  position: relative;
+  padding-top: 50px;
+}
+
+.profile {
+  width: 30%;
+  margin: 50px auto 50px;
+  text-align: center;
+  font-size: 80%;
+}
+
+.skills {
+  padding-top: 50px;
+  font-size: 80%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px;
+  text-align: justify;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 50px auto 50px;
+  text-align: center;
+  font-size: 80%;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding-bottom: 20px;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.footer-link {
+  margin-right: 30px;
+  font-size: 90%;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-decoration: none
+}
+
+.footerlink {
+  padding-top: 50px;
+}
+
+.footer-txt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #eaf6f6;
+  font-size: 80%;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 8px;
+  color: #eaf6f6;
+}
+
+.farm-text {
+  text-decoration: underline;
+}
+
+.farm-img {
+display: block;
+margin: auto;
+}
+
+.netflix {
+  color: red;
+}
+
+.me {
+  width: 50%;
+}
+
+.hydroponic {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.code {
+  width: 37%;
+  float: right;
+  margin-left: 30px;
+}
+
+.BUTTON_JDR {
+  background-color: #66BFBF;
+  -webkit-border-top-left-radius: 22px;
+  -moz-border-radius-topleft: 22px;
+  border-top-left-radius: 22px;
+  -webkit-border-top-right-radius: 22px;
+  -moz-border-radius-topright: 22px;
+  border-top-right-radius: 22px;
+  -webkit-border-bottom-right-radius: 22px;
+  -moz-border-radius-bottomright: 22px;
+  border-bottom-right-radius: 22px;
+  -webkit-border-bottom-left-radius: 22px;
+  -moz-border-radius-bottomleft: 22px;
+  border-bottom-left-radius: 22px;
+  text-indent: 0;
+  border: 2px solid #ffffff;
+  display: inline-block;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  font-style: normal;
+  height: 37px;
+  line-height: 37px;
+  width: 138px;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 1px 1px 0 #000000;
+}
+
+.BUTTON_JDR:hover {
+  background-color: #11999E;
+}
+
+.BUTTON_JDR:active {
+  position: relative;
+  top: 1px;
+}
+
+/* clear untuk menghapus margin disisi text / bisa jadi kebalikan dari float
+.skill-desc {
+  clear: right;
+}
+*/
